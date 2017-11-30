@@ -1,3 +1,6 @@
 [submodule "reflectionsSubmodule"]
 	path = reflectionsSubmodule
 	url = ../Reflections
+[submodule "recipesForked"]
+	path = recipesForked
+	url = https://github.com/D-Marquina/recipes.git
