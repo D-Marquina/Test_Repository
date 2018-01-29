@@ -19,7 +19,6 @@
 #
 # import os
 import sys
-import kivy
 sys.path.insert(0, "D:\\Tecsup\\Varios\\GestaltFramework\\py3Gestalt")
 sys.path.insert(0, "D:\\Tecsup\\Varios\\GestaltFramework")
 
